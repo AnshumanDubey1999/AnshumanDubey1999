@@ -1,12 +1,8 @@
-<img alt="cover" src="https://raw.githubusercontent.com/AnshumanDubey1999/AnshumanDubey1999/master/title.gif" height="300px" width="1400px" />
+<img alt="cover" src="https://raw.githubusercontent.com/AnshumanDubey1999/AnshumanDubey1999/master/title.gif" height="160px" width="1400px" />
 <br />
 
 ###  Hi there, I am Anshuman Dubey :wave:
-
-<img align="left" width="32px" height="32px" alt="profile" src="https://raw.githubusercontent.com/coderj001/coderj001/master/face_co.svg" />
-
-
-## I'm Student, Coder, Developer and Ctf Player
+## I am a student and a passionate backend developer from India
 
 - :fire: I'm currently Learning everything :smiley:
 - :school_satchel: I'm currently doing Computer Engineering :loop:
@@ -50,10 +46,8 @@
 <br />
 <br />
 
-<img align="left" alt="coderj001's Github Stats" src="https://github-readme-stats.vercel.app/api?username=AnshumanDubey1999&count_private=true&show_icons=true&theme=chartreuse-dark&include_all_commits=true&custom_title=My%20GitHub%20Stats" />
-<img align="left" alt="coderj001's Github Langauge Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnshumanDubey1999&theme=chartreuse-dark&layout=compact&hide=VHDL" />
+<img align="left" width="50%" alt="My Github Stats" src="https://github-readme-stats.vercel.app/api?username=AnshumanDubey1999&count_private=true&show_icons=true&theme=chartreuse-dark&include_all_commits=true&custom_title=My%20GitHub%20Stats&hide_border=true&hide=stars"/>
+<img align="left" width="50%" alt="My Github Langauge Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnshumanDubey1999&theme=chartreuse-dark&layout=compact&hide=VHDL&hide_border=true" />
 
 <br />
 <br />
-
-<img src="https://github-profile-trophy.vercel.app/?username=coderj001&theme=flat&column=7" alt="logo" height="160" align="center" style="margin: auto; margin-bottom: 20px;" />
