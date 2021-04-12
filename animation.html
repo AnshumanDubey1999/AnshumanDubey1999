@@ -1,0 +1,220 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Animate</title>
+	<style>
+    * {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+  overflow: hidden;
+  height: 100%;
+}
+  </style>
+</head>
+<body>
+  <div style="
+    width: 100%;
+    height: 30vh;
+    position: absolute;
+    top: 0px;
+    
+    background: rgb(13,17,23);
+    background: linear-gradient(0deg, rgba(13,17,23,0.01) 0%, rgba(13,17,23,0.01) 0%, rgba(13,17,23,1) 100%);
+  "></div>
+<div style="
+  position: absolute;
+  color: white;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+">
+  <h1 style="
+    font-weight: 100;
+    font-size: 121px;
+    font-family: system-ui;">Anshuman Dubey</h1>
+    <h1 style="
+      font-weight: 800;
+      font-size: 40px;
+      text-align: center;">Software Developer</h1>
+</div>
+
+<div style="
+    width: 100%;
+    height: 30vh;
+    position: absolute;
+    bottom: 0px;
+    
+    background: rgb(13,17,23);
+    background: linear-gradient(180deg, rgba(13,17,23,0.01) 0%,rgba(13,17,23,0.01) 0%, rgba(13,17,23,1) 100%);
+  "></div>
+	
+<script src='https://cdnjs.cloudflare.com/ajax/libs/p5.js/1.0.0/p5.min.js'></script>
+
+	<script type="text/javascript">
+
+// Code By Webdevtrick ( https://webdevtrick.com )
+const langs = [
+ "Hello World",
+ "Java",
+ "Python3",
+ "LinkedIn",
+ "Codechef",
+ "HackerRank",
+ "Codeforces",
+ "HackerEarth",
+ "Discord",
+ "AngularJS",
+ "BootStrap",
+ "C",
+ "HTML5",
+ "Firebase",
+ "Git",
+ "Heroku",
+ "Express",
+ "CSS3",
+ "JavaScript",
+ "Linux",
+ "Mint",
+ "MongoDB",
+ "PostgreSQL",
+ "nodeJS",
+ "postman",
+ "TypeScript",
+ "IntellijIDEA",
+ "VSCode",
+ "SublimeText3",
+ "ptPython",
+ "Anshuman",
+ "Dubey",
+ "Anime",
+ "Tatakaye",
+ "GitHub",
+ "Engineering",
+ "CSE",
+ "TMSL",
+ "AttackOnTitan",
+ "MarvelCinematicUniverse",
+ "Matrix",
+ "NeonGenysisEvangelion",
+ "YourName",
+ "Pixar",
+ "MobPshyco100",
+ "One",
+ "bash",
+ "Hamilton",
+ "Nier:Automata",
+ "FarCry3",
+ "Phineas&Ferb",
+ "StarWars",
+ "Avatar",
+ "MyNeighborTotoro",
+ "PrincessMononoke",
+ "HarryPotter",
+ "ASongOfIce&Fire",
+ "WorldWarZ",
+ "TheFaultInOurStars",
+ "ThePrestige",
+ "Intersteller",
+ "LabaDabaDubDub"
+];
+ 
+ 
+let charSize = 20;
+let fallRate = charSize / 2;
+let streams;
+ 
+// -------------------------------
+class Char {
+ constructor(value, x, y, speed) {
+  this.value = value;
+  this.x = x;
+  this.y = y;
+  this.speed = speed;
+ }
+ 
+ draw() {
+  const flick = random(100);
+  // 10 percent chance of flickering a number instead
+  if (flick < 10) {
+    fill(120, 30, 100);
+    text(round(random(9)), this.x, this.y);
+  } else {
+    text(this.value, this.x, this.y);
+  }
+  
+  // fall down
+  this.y = this.y > height ? 0 : this.y + this.speed;
+ }
+}
+ 
+// -------------------------------------
+class Stream {
+ constructor(text, x) {
+  const y = random(text.length);
+  const speed = random(2, 10);
+  this.chars = [];
+  
+  for (let i = text.length; i >= 0; i--) {
+    this.chars.push(
+      new Char(text[i], x, (y + text.length - i) * charSize, speed)
+    );
+  }
+ }
+ 
+ draw() {
+  fill(120, 100, 100);
+  this.chars.forEach((c, i) => {
+    // 30 percent chance of lit tail
+    const lit = random(100);
+    if (lit < 30) {
+      if (i === this.chars.length - 1) {
+        fill(120, 30, 100);
+      } else {
+        fill(120, 100, 90);
+      }
+    }
+    
+    c.draw();
+  });
+ }
+}
+ 
+function createStreams() {
+ // create random streams from langs that span the width
+ for (let i = 0; i < width; i += charSize) {
+ streams.push(new Stream(random(langs), i));
+ }
+}
+ 
+function reset() {
+ streams = [];
+ createStreams();
+}
+ 
+function setup() {
+ createCanvas(innerWidth, innerHeight);
+ reset();
+ frameRate(20);
+ colorMode(HSB);
+ noStroke();
+ textSize(charSize);
+ textFont("monospace");
+ background(216,43.5,9.0);
+}
+ 
+function draw() {
+ background(216,43.5,9.0, 0.4);
+ streams.forEach((s) => s.draw());
+}
+ 
+function windowResized() {
+ resizeCanvas(innerWidth, innerHeight);
+ background(216,43.5,9.0);
+ reset();
+}
+	</script>
+</body>
+</html>
