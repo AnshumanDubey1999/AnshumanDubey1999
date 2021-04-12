@@ -11,7 +11,7 @@
 
 ### Connect with me:
 
-< align="left">
+<p align="left">
 
 <a href="mailto:anshumandubey2k18@gmail.com" target="blank"><img align="center" src="https://my-badge-generator.herokuapp.com/badge/Gmail-anshumandunbey2k18-ea4335?style=for-the-badge&logo=gmail" alt="anshumandubey2k18@gmail.com" height="30"/></a>
 <a href="https://linkedin.com/in/anshuman-dubey-b95100171" target="blank"><img align="center" src="https://my-badge-generator.herokuapp.com/badge/LinkedIn-anshuman--dubey--b95100171-0A66C2?style=for-the-badge&logo=linkedin" alt="anshuman-dubey-b95100171" height="30"/></a>
@@ -26,7 +26,6 @@
 <a href="https://www.codechef.com/users/anshuman_1999" target="blank"><img  src="https://my-badge-generator.herokuapp.com/badge/Codechef-anshuman__1999-5b4638?style=for-the-badge&logo=codechef" alt="anshuman_1999" height="30"/></a>
 <a href="https://www.hackerrank.com/anshumandubey99" target="blank"><img  src="https://my-badge-generator.herokuapp.com/badge/HackerRank-anshumandubey99-2ec866?style=for-the-badge&logo=hackerrank" alt="anshumandubey99" height="30"/></a>
 <a href="https://codeforces.com/profile/anshumanhere" target="blank"><img  src="https://my-badge-generator.herokuapp.com/badge/Codeforces-anshumanhere-1f8acb?style=for-the-badge&logo=codeforces" alt="anshumanhere" height="30"/></a>
-<br />
 <a href="https://www.hackerearth.com/@anshuman266" target="blank"><img  src="https://my-badge-generator.herokuapp.com/badge/HackerEarth-@anshuman266-2c3454?style=for-the-badge&logo=hackerearth" alt="@anshuman266" height="30"/></a>
 	</p>
 <br />
