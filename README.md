@@ -13,10 +13,9 @@
 
 <p align="left">
 
-<a href="mailto:anshumandubey2k18@gmail.com" target="blank"><img align="center" src="https://my-badge-generator.herokuapp.com/badge/Gmail-anshumandunbey2k18-ea4335?style=for-the-badge&logo=gmail" alt="anshumandubey2k18@gmail.com" height="30"/></a>
-<a href="https://linkedin.com/in/anshuman-dubey-b95100171" target="blank"><img align="center" src="https://my-badge-generator.herokuapp.com/badge/LinkedIn-anshuman--dubey--b95100171-0A66C2?style=for-the-badge&logo=linkedin" alt="anshuman-dubey-b95100171" height="30"/></a>
-
-<a href="https://discord.gg/9ybfVkDc" target="blank"><img align="center" src="https://my-badge-generator.herokuapp.com/badge/Discord-anshuman%234424-7289da?style=for-the-badge&logo=discord" alt="anshuman#4424" height="30"/></a>
+<a href="mailto:anshumandubey2k18@gmail.com" target="blank"><img  src="https://my-badge-generator.herokuapp.com/badge/Gmail-anshumandunbey2k18-ea4335?style=for-the-badge&logo=gmail" alt="anshumandubey2k18@gmail.com" height="30"/></a>
+<a href="https://linkedin.com/in/anshuman-dubey-b95100171" target="blank"><img  src="https://my-badge-generator.herokuapp.com/badge/LinkedIn-anshuman--dubey--b95100171-0A66C2?style=for-the-badge&logo=linkedin" alt="anshuman-dubey-b95100171" height="30"/></a>
+<a href="https://discord.gg/9ybfVkDc" target="blank"><img  src="https://my-badge-generator.herokuapp.com/badge/Discord-anshuman%234424-7289da?style=for-the-badge&logo=discord" alt="anshuman#4424" height="30"/></a>
 </p>
 
 <br />
@@ -42,8 +41,8 @@
 <br />
 <br />
 <p align = "center">
-<img align="left" width="47%" height="180em" alt="My Github Stats" src="https://github-readme-stats.vercel.app/api?username=AnshumanDubey1999&count_private=true&show_icons=true&theme=chartreuse-dark&include_all_commits=true&custom_title=My%20GitHub%20Stats&hide_border=true"/>
-<img align="right" width="47%" height="180em" alt="My Github Langauge Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnshumanDubey1999&theme=chartreuse-dark&layout=compact&hide=VHDL&hide_border=true" />
+<img align="left" height="180em" alt="My Github Stats" src="https://github-readme-stats.vercel.app/api?username=AnshumanDubey1999&count_private=true&show_icons=true&theme=chartreuse-dark&include_all_commits=true&custom_title=My%20GitHub%20Stats&hide_border=true"/>
+<img align="right" height="180em" alt="My Github Langauge Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnshumanDubey1999&theme=chartreuse-dark&layout=compact&hide=VHDL&hide_border=true" />
 </p>
 
 
