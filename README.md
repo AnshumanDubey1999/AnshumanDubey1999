@@ -40,6 +40,6 @@
 
 <br />
 <p align = "center">
-<img height="180em" width="450px" alt="My Github Stats" src="https://github-readme-stats.vercel.app/api?username=AnshumanDubey1999&count_private=true&show_icons=true&theme=chartreuse-dark&include_all_commits=true&custom_title=My%20GitHub%20Stats&hide_border=true"/>
-<img height="180em" width="450px" alt="My Github Langauge Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnshumanDubey1999&theme=chartreuse-dark&layout=compact&hide=VHDL&hide_border=true" />
+<img height="180em" width="400px" alt="My Github Stats" src="https://github-readme-stats.vercel.app/api?username=AnshumanDubey1999&count_private=true&show_icons=true&theme=chartreuse-dark&include_all_commits=true&custom_title=My%20GitHub%20Stats&hide_border=true"/>
+<img height="180em" width="400px" alt="My Github Langauge Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnshumanDubey1999&theme=chartreuse-dark&layout=compact&hide=VHDL&hide_border=true" />
 </p>
