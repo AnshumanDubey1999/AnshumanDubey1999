@@ -13,19 +13,19 @@
 
 <p align="left">
 
-<a href="mailto:anshumandubey2k18@gmail.com" target="blank"><img  src="https://my-badge-generator.herokuapp.com/badge/Gmail-anshumandubey2k18-ea4335?style=for-the-badge&logo=gmail" alt="anshumandubey2k18@gmail.com" height="30"/></a>
-<a href="https://linkedin.com/in/anshuman-dubey-b95100171" target="blank"><img  src="https://my-badge-generator.herokuapp.com/badge/LinkedIn-anshuman--dubey--b95100171-0A66C2?style=for-the-badge&logo=linkedin" alt="anshuman-dubey-b95100171" height="30"/></a>
-<a href="https://discord.gg/9ybfVkDc" target="blank"><img  src="https://my-badge-generator.herokuapp.com/badge/Discord-anshuman%234424-7289da?style=for-the-badge&logo=discord" alt="anshuman#4424" height="30"/></a>
+<a href="mailto:anshumandubey2k18@gmail.com" target="blank"><img  src="https://img.shields.io/badge/Gmail-anshumandubey2k18-ea4335?style=for-the-badge&logo=gmail" alt="anshumandubey2k18@gmail.com" height="30"/></a>
+<a href="https://linkedin.com/in/anshuman-dubey-b95100171" target="blank"><img  src="https://img.shields.io/badge/LinkedIn-anshuman--dubey--b95100171-0A66C2?style=for-the-badge&logo=linkedin" alt="anshuman-dubey-b95100171" height="30"/></a>
+<a href="https://discord.gg/9ybfVkDc" target="blank"><img  src="https://img.shields.io/badge/Discord-anshuman%234424-7289da?style=for-the-badge&logo=discord" alt="anshuman#4424" height="30"/></a>
 </p>
 
 <br />
 
 ### Where I practice:
 <p align="left">
-<a href="https://www.codechef.com/users/anshuman_1999" target="blank"><img  src="https://my-badge-generator.herokuapp.com/badge/Codechef-anshuman__1999-5b4638?style=for-the-badge&logo=codechef" alt="anshuman_1999" height="30"/></a>
-<a href="https://www.hackerrank.com/anshumandubey99" target="blank"><img  src="https://my-badge-generator.herokuapp.com/badge/HackerRank-anshumandubey99-2ec866?style=for-the-badge&logo=hackerrank" alt="anshumandubey99" height="30"/></a>
-<a href="https://codeforces.com/profile/anshumanhere" target="blank"><img  src="https://my-badge-generator.herokuapp.com/badge/Codeforces-anshumanhere-1f8acb?style=for-the-badge&logo=codeforces" alt="anshumanhere" height="30"/></a>
-<a href="https://www.hackerearth.com/@anshuman266" target="blank"><img  src="https://my-badge-generator.herokuapp.com/badge/HackerEarth-@anshuman266-2c3454?style=for-the-badge&logo=hackerearth" alt="@anshuman266" height="30"/></a>
+<a href="https://www.codechef.com/users/anshuman_1999" target="blank"><img  src="https://img.shields.io/badge/Codechef-anshuman__1999-5b4638?style=for-the-badge&logo=codechef" alt="anshuman_1999" height="30"/></a>
+<a href="https://www.hackerrank.com/anshumandubey99" target="blank"><img  src="https://img.shields.io/badge/HackerRank-anshumandubey99-2ec866?style=for-the-badge&logo=hackerrank" alt="anshumandubey99" height="30"/></a>
+<a href="https://codeforces.com/profile/anshumanhere" target="blank"><img  src="https://img.shields.io/badge/Codeforces-anshumanhere-1f8acb?style=for-the-badge&logo=codeforces" alt="anshumanhere" height="30"/></a>
+<a href="https://www.hackerearth.com/@anshuman266" target="blank"><img  src="https://img.shields.io/badge/HackerEarth-@anshuman266-2c3454?style=for-the-badge&logo=hackerearth" alt="@anshuman266" height="30"/></a>
 	</p>
 <br />
 
@@ -35,23 +35,23 @@
 
 <p align="center">
 
-  <a href="https://angular.io" target="_blank"> <img src="https://my-badge-generator.herokuapp.com/badge/--0d1117?style=flat-square&logo=angular&logoColor=dd0031" alt="angularjs" height="40"/> </a> 
-  <a href="https://getbootstrap.com" target="_blank"> <img src="https://my-badge-generator.herokuapp.com/badge/--0d1117?style=flat-square&logo=bootstrap" alt="bootstrap" height="40"/> </a> 
-  <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://my-badge-generator.herokuapp.com/badge/--0d1117?style=flat-square&logo=c" alt="c" height="40"/> </a> 
-  <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://my-badge-generator.herokuapp.com/badge/--0d1117?style=flat-square&logo=css3&logoColor=1572b6" alt="css3"  height="40"/> </a> <a href="https://expressjs.com" target="_blank"> <img src="https://my-badge-generator.herokuapp.com/badge/--0d1117?style=flat-square&logo=express" alt="express"  height="40"/> </a> 
-  <a href="https://firebase.google.com/" target="_blank"> <img src="https://my-badge-generator.herokuapp.com/badge/--0d1117?style=flat-square&logo=firebase" alt="firebase"  height="40"/> </a> 
-  <a href="https://git-scm.com/" target="_blank"> <img src="https://my-badge-generator.herokuapp.com/badge/--0d1117?style=flat-square&logo=git" alt="git"  height="40"/> </a> 
-  <a href="https://heroku.com" target="_blank"> <img src="https://my-badge-generator.herokuapp.com/badge/--0d1117?style=flat-square&logo=heroku&logoColor=430098" alt="heroku"  height="40"/> </a> 
-  <a href="https://www.w3.org/html/" target="_blank"> <img src="https://my-badge-generator.herokuapp.com/badge/--0d1117?style=flat-square&logo=html5" alt="html5"  height="40"/> </a> 
-  <a href="https://www.java.com" target="_blank"> <img src="https://my-badge-generator.herokuapp.com/badge/--0d1117?style=flat-square&logo=java&logoColor=007396" alt="java"  height="40"/> </a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://my-badge-generator.herokuapp.com/badge/--0d1117?style=flat-square&logo=javascript" alt="javascript"  height="40"/> </a> 
-  <a href="https://www.linux.org/" target="_blank"> <img src="https://my-badge-generator.herokuapp.com/badge/--0d1117?style=flat-square&logo=linux" alt="linux"  height="40"/> </a> 
-  <a href="https://www.mongodb.com/" target="_blank"> <img src="https://my-badge-generator.herokuapp.com/badge/--0d1117?style=flat-square&logo=mongodb" alt="mongodb"  height="40"/> </a> 
-  <a href="https://nodejs.org" target="_blank"> <img src="https://my-badge-generator.herokuapp.com/badge/--0d1117?style=flat-square&logo=node.js" alt="nodejs"  height="40"/> </a> 
-  <a href="https://www.postgresql.org" target="_blank"> <img src="https://my-badge-generator.herokuapp.com/badge/--0d1117?style=flat-square&logo=postgresql&logoColor=336791" alt="postgresql"  height="40"/> </a> 
-  <a href="https://postman.com" target="_blank"> <img src="https://my-badge-generator.herokuapp.com/badge/--0d1117?style=flat-square&logo=postman" alt="postman"  height="40"/> </a> 
-  <a href="https://www.python.org" target="_blank"> <img src="https://my-badge-generator.herokuapp.com/badge/--0d1117?style=flat-square&logo=python" alt="python"  height="40"/> </a> 
-  <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://my-badge-generator.herokuapp.com/badge/--0d1117?style=flat-square&logo=typescript" alt="typescript"  height="40"/> </a>
+  <a href="https://angular.io" target="_blank"> <img src="https://img.shields.io/badge/--0d1117?style=flat-square&logo=angular&logoColor=dd0031" alt="angularjs" height="40"/> </a> 
+  <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.shields.io/badge/--0d1117?style=flat-square&logo=bootstrap" alt="bootstrap" height="40"/> </a> 
+  <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://img.shields.io/badge/--0d1117?style=flat-square&logo=c" alt="c" height="40"/> </a> 
+  <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.shields.io/badge/--0d1117?style=flat-square&logo=css3&logoColor=1572b6" alt="css3"  height="40"/> </a> <a href="https://expressjs.com" target="_blank"> <img src="https://img.shields.io/badge/--0d1117?style=flat-square&logo=express" alt="express"  height="40"/> </a> 
+  <a href="https://firebase.google.com/" target="_blank"> <img src="https://img.shields.io/badge/--0d1117?style=flat-square&logo=firebase" alt="firebase"  height="40"/> </a> 
+  <a href="https://git-scm.com/" target="_blank"> <img src="https://img.shields.io/badge/--0d1117?style=flat-square&logo=git" alt="git"  height="40"/> </a> 
+  <a href="https://heroku.com" target="_blank"> <img src="https://img.shields.io/badge/--0d1117?style=flat-square&logo=heroku&logoColor=430098" alt="heroku"  height="40"/> </a> 
+  <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.shields.io/badge/--0d1117?style=flat-square&logo=html5" alt="html5"  height="40"/> </a> 
+  <a href="https://www.java.com" target="_blank"> <img src="https://img.shields.io/badge/--0d1117?style=flat-square&logo=java&logoColor=007396" alt="java"  height="40"/> </a> 
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.shields.io/badge/--0d1117?style=flat-square&logo=javascript" alt="javascript"  height="40"/> </a> 
+  <a href="https://www.linux.org/" target="_blank"> <img src="https://img.shields.io/badge/--0d1117?style=flat-square&logo=linux" alt="linux"  height="40"/> </a> 
+  <a href="https://www.mongodb.com/" target="_blank"> <img src="https://img.shields.io/badge/--0d1117?style=flat-square&logo=mongodb" alt="mongodb"  height="40"/> </a> 
+  <a href="https://nodejs.org" target="_blank"> <img src="https://img.shields.io/badge/--0d1117?style=flat-square&logo=node.js" alt="nodejs"  height="40"/> </a> 
+  <a href="https://www.postgresql.org" target="_blank"> <img src="https://img.shields.io/badge/--0d1117?style=flat-square&logo=postgresql&logoColor=336791" alt="postgresql"  height="40"/> </a> 
+  <a href="https://postman.com" target="_blank"> <img src="https://img.shields.io/badge/--0d1117?style=flat-square&logo=postman" alt="postman"  height="40"/> </a> 
+  <a href="https://www.python.org" target="_blank"> <img src="https://img.shields.io/badge/--0d1117?style=flat-square&logo=python" alt="python"  height="40"/> </a> 
+  <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://img.shields.io/badge/--0d1117?style=flat-square&logo=typescript" alt="typescript"  height="40"/> </a>
 </p>
 
 <br />
