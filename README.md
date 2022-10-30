@@ -1,12 +1,12 @@
-<img alt="cover" src="https://raw.githubusercontent.com/AnshumanDubey1999/AnshumanDubey1999/master/title.gif" width="100%" />
+<a href="https://anshuman-dubey.web.app/" target="blank"><img alt="cover" src="https://raw.githubusercontent.com/AnshumanDubey1999/AnshumanDubey1999/master/title.gif" width="100%" /></a>
 
 ###  Hi there, I am Anshuman Dubey :wave:
-## I am a student and a passionate backend developer from India
+## I am a passionate backend developer from India
 
 - :fire: I'm currently Learning everything :smiley:
-- :school_satchel: I'm currently doing Computer Engineering :loop:
+- :school_satchel: I have completed B.Tech in Computer Science & Engineering :loop:
 - :books: I'm looking for collaborate in github :green_book:
-- :rocket: 2021 Goals: To be more active on GitHub :soon:
+- :rocket: Goals: More open-source contributions :soon:
 - :raised_hands: Fun fact: I love Anime :zap:
 
 ### Connect with me:
@@ -15,7 +15,6 @@
 
 <a href="mailto:anshumandubey2k18@gmail.com" target="blank"><img  src="https://img.shields.io/badge/Gmail-anshumandubey2k18-ea4335?style=for-the-badge&logo=gmail" alt="anshumandubey2k18@gmail.com" height="30"/></a>
 <a href="https://linkedin.com/in/anshuman-dubey-b95100171" target="blank"><img  src="https://img.shields.io/badge/LinkedIn-anshuman--dubey--b95100171-0A66C2?style=for-the-badge&logo=linkedin" alt="anshuman-dubey-b95100171" height="30"/></a>
-<a href="https://discord.gg/9ybfVkDc" target="blank"><img  src="https://img.shields.io/badge/Discord-anshuman%234424-7289da?style=for-the-badge&logo=discord" alt="anshuman#4424" height="30"/></a>
 </p>
 
 <br />
